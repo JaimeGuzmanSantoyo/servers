@@ -1,0 +1,10 @@
+h1 {
+    background-color: rgb(24, 89, 129);
+    font-size: 50px; /* Ajusta el tamaño según lo necesites */
+    color: darkgreen;
+}
+
+body {
+    background-color: rgb(68, 83, 124);
+    color: white; /* Cambia el color del texto para mejor contraste */
+}
